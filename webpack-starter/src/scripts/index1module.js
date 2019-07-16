@@ -128,9 +128,9 @@
 // console.log(i); // is 8
 
 
-for (let i = 0; i < 4; i++) {
-  if (i === 2) {
-    continue;
-  }
-  console.log(i);
-}
+// for (let i = 0; i < 4; i++) {
+//   if (i === 2) {
+//     continue;
+//   }
+//   console.log(i);
+// }
